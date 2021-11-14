@@ -16,9 +16,9 @@ header h1 {
   font-size: 50px;
 }
 header img {
-  border-radius: 200px;
-  height: 400px;
-  width: 400px;
+  border-radius: 275px;
+  height: 500px;
+  width: 500px;
   border: 20px solide white;
 }
 h1,
@@ -47,3 +47,4 @@ footer a : :hover {
   opacity: 0.5;
   background-color: transparent;
 }
+/* I'm  pretty happy with website */
